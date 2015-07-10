@@ -1,0 +1,2 @@
+An automatic technique for mining and synthesizing succinct and representative human-readable documentation
+of program interfaces. Our algorithm is based on a combination of path sensitive dataﬂow analysis, clustering, and pattern abstraction. It produces output in the form of well-typed program snippets which document initialization, method calls, assignments, looping constructs, and exception handling.
